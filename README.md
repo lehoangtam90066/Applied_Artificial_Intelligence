@@ -1,0 +1,2 @@
+# Applied_Artificial_Intelligence
+Class Exercises
